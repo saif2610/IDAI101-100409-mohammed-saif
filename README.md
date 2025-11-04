@@ -33,6 +33,23 @@ Typical components:
 • Data Store — JSON files, CSV, or a small database to store campus data and FAQs.
  
 Project Structure & Main Modules
+Intent 1:  Ask Admission:
+               how to apply for admission
+               admission process
+Intent 2:  Ask Cafeteria Timetable
+        cafeteria timings for UG students
+        when is lunch for PG
+Intent 3:Ask Department
+        list departments
+        faculty details
+Intent 4:Ask Facilities
+      what facilities are available
+      tell me about campus facilities
+Intent 4: Ask Hostel Timetable
+        what is hostel curfew
+        mess timing in hostel C
+
+
 Files extracted from campus-bot.zip:
 •	• package.json
 •	• agent.json
